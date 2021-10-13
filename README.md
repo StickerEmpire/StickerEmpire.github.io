@@ -1,6 +1,8 @@
 [markddown cheatsheet](https://www.markdownguide.org/cheat-sheet/)
 
 ---
+
+[Email me](mailto:natalie@liskfamily.com)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/StickerEmpire/StickerEmpire.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
