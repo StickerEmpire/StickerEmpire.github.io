@@ -4,26 +4,24 @@
 
 ## Welcome to Sticker Empire
 
-Stickers are sold in packs or can be bought individually. I also do custom stickers.
+Stickers are sold in packs or can be bought individually. I also do custom stickers!
 
-[Email me](mailto:StickerEmpire@liskfamily.com) your orders. For custom stickers, send a reference, or describe the sticker you want in the emial. 
+[Email me](mailto:StickerEmpire@liskfamily.com) your orders. For custom stickers, send a reference image, or describe the sticker you want in the emial! 
 
 
 ## Packs
 
-- Broadway Pack ![broadway]
-- Harry Potter Pack ![harry potter]
-- Food Pack ![food]
-- Animal Pack ![animal]
-- Pride Pack ![pride flag hearts]
-- Vine Pack ![Vines]
+- $13 ![broadway pack]
+- $5 ![harry potter pack]
+- $15 ![food pack]
+- $15 ![animal pack]
+- $6 ![pride flag hearts pack]
+- $8 ![Vines pack]
 
-### Markdown
+## Prices
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+- Individual stickers are $1 each
+- Pack prices listed above
 
 # Header 1
 ## Header 2
