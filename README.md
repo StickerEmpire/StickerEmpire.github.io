@@ -18,3 +18,6 @@ Stickers are sold in packs or can be bought individually. I also do custom stick
 
 - Individual stickers are $1 each
 - Pack prices listed above
+
+## Accounts
+[![Instagram](instagram.png)](https://instragram.com/stick_erempire)
