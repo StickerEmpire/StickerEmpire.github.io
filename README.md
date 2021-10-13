@@ -1,12 +1,8 @@
-[markddown cheatsheet](https://www.markdownguide.org/cheat-sheet/)
-
----
-
 ## Welcome to Sticker Empire
 
 Stickers are sold in packs or can be bought individually. I also do custom stickers!
 
-[Email me](mailto:StickerEmpire@liskfamily.com) your orders. For custom stickers, send a reference image, or describe the sticker you want in the emial! 
+[Email me](mailto:StickerEmpire@liskfamily.com) your orders. For custom stickers, send a reference image, or describe the sticker you want in the email! 
 
 
 ## Packs
