@@ -2,12 +2,21 @@
 
 ---
 
-[Email me](mailto:natalie@liskfamily.com)
-## Welcome to GitHub Pages
+## Welcome to Sticker Empire
 
-You can use the [editor on GitHub](https://github.com/StickerEmpire/StickerEmpire.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Stickers are sold in packs or can be bought individually. I also do custom stickers.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Email me](mailto:StickerEmpire@liskfamily.com) your orders. For custom stickers, send a reference, or describe the sticker you want in the emial. 
+
+
+## Packs
+
+- Broadway Pack ![broadway]
+- Harry Potter Pack ![harry potter]
+- Food Pack ![food]
+- Animal Pack ![animal]
+- Pride Pack ![pride flag hearts]
+- Vine Pack ![Vines]
 
 ### Markdown
 
