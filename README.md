@@ -20,4 +20,4 @@ Stickers are sold in packs or can be bought individually. I also do custom stick
 - Pack prices listed above
 
 ## Accounts
-[![Instagram](instagram.png)](https://instragram.com/stick_erempire)
+[![Instagram](instagram.png)](https://instragram.com/stick_erempire){:target="_blank"}
