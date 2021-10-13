@@ -7,12 +7,12 @@ Stickers are sold in packs or can be bought individually. I also do custom stick
 
 ## Packs
 
-- $13 ![broadway pack]
-- $5 ![harry potter pack]
-- $15 ![food pack]
-- $15 ![animal pack]
-- $6 ![pride flag hearts pack]
-- $8 ![Vines pack]
+- $13 ![broadway pack](BroadwayPack.jpeg)
+- $5 ![harry potter pack](HarryPotterPack.jpeg)
+- $15 ![food pack](FoodPack.jpeg)
+- $15 ![animal pack](AnimalPack.jpeg)
+- $6 ![pride flag hearts pack](PridePack.jpeg) 
+- $8 ![Vines pack](VinePack.jpeg)
 
 ## Prices
 
@@ -21,3 +21,4 @@ Stickers are sold in packs or can be bought individually. I also do custom stick
 
 ## Accounts
 [![Instagram](instagram.png)](https://instragram.com/stick_erempire){:target="_blank"}
+[![TikTok](tiktok.png)](https://www.tiktok.com/@stick_erempire_){:target="blank"}
