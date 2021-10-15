@@ -8,12 +8,12 @@ Stickers are sold in packs or can be bought individually. I also do custom stick
 
 ## Packs
 
-- $13 ![broadway pack](BroadwayPack.jpg)
-- $5 ![harry potter pack](HarryPotterPack.jpg)
-- $15 ![food pack](FoodPack.jpg)
-- $15 ![animal pack](AnimalPack.jpg)
-- $6 ![pride flag hearts pack](PridePack.jpg) 
-- $8 ![Vines pack](VinePack.jpg)
+- ### $13 ![broadway pack](BroadwayPack.jpg)
+- ### $5 ![harry potter pack](HarryPotterPack.jpg)
+- ### $15 ![food pack](FoodPack.jpg)
+- ### $15 ![animal pack](AnimalPack.jpg)
+- ### $6 ![pride flag hearts pack](PridePack.jpg) 
+- ### $8 ![Vines pack](VinePack.jpg)
 
 ---
 
