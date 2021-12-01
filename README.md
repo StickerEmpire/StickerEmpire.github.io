@@ -25,7 +25,7 @@ Stickers are sold in packs or can be bought individually. I also do custom stick
 ---
 
 ## Specialty Packs
-- None avalibe right now
+- Christmas Pack $6
 
 ---
 
